@@ -2,6 +2,9 @@ Compute Engine Web Server (IaaS)
 Vu Lan Anh Tran - Developed and uploaded the `index.html` website code and the cloud architecture diagram.
 Esteban Munoz - Configured the cloud infrastructure, captured the evidence screenshots, and uploaded the project documentation.
 
+Working Link:
+http://35.188.21.233/
+
 Project Description
 In this project, our team used a customized website on a cloud server, which we have full control of. We created an Nginx web server with a Google Compute Engine virtual machine with `e2-micro` Debian Linux operating system. Core Infrastructure as a Service (IaaS) concepts were used to apply a custom VPC firewall rule for traffic to only be allowed in on TCP port 80, for HTTP traffic.
 
